@@ -22,3 +22,13 @@ This project is a **basic rule-based chatbot** built using Python. It simulates 
 3. **Exit Condition**: If the user types `"bye"`, the chatbot ends the conversation with a farewell message.
 
 ## Sample Interaction
+
+## How to Run
+1. Clone or download the project files.
+2. Open the Python file (`chatbot.py`) in your code editor or IDE.
+3. Run the script to start the chatbot.
+
+## Future Improvements
+- Expand the dictionary with more user inputs and responses.
+- Add Natural Language Processing (NLP) techniques to handle more flexible user input.
+- Implement a GUI (Graphical User Interface) for a more interactive experience.
